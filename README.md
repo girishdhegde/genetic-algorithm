@@ -11,5 +11,5 @@ clone this repository and execute the following commands:
    ######        2.TSP - travelling salesperson
                  python sentence_generator.py
                  
-                 to stop the code press 'esc' twice.
-                 to save the states press 'y' (states will be stored in ./output directory).
+   to stop the code press 'esc' twice.
+   to save the states press 'y' (states will be stored in ./output directory).
