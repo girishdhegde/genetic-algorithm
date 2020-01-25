@@ -9,7 +9,7 @@ clone this repository and execute the following commands:
    ######        1.sentence_generator
           python sentence_generator.py
    ######        2.TSP - travelling salesperson
-          python sentence_generator.py
+          python TSP.py
                  
    to stop the code press 'esc' twice.
    
