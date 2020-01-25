@@ -7,9 +7,9 @@ clone this repository and execute the following commands:
           pip install -r requirements.txt 
    ##### to try the codes:
    ######        1.sentence_generator
-                 python sentence_generator.py
+          python sentence_generator.py
    ######        2.TSP - travelling salesperson
-                 python sentence_generator.py
+          python sentence_generator.py
                  
    to stop the code press 'esc' twice.
    
