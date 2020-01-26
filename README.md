@@ -16,7 +16,6 @@ clone this repository and execute the following commands:
    to save the states press 'y' (states will be stored in ./output directory).
    
 ## Screen-shots
-<img src="./output/map1/city_map.png" width="800">
 <img src="./output/map1/generation_0.png" width="400"/> <img src="./output/map1/generation_500.png" width="400"/>
 <img src="./output/map1/generation_0.png" width="200"/> <img src="./output/map1/generation_500.png" width="200"/>
 <img src="./output/map1/generation_1000.png" width="400"/><img src="./output/map1/generation_1500.png" width="400"/>
