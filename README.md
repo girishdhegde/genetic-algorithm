@@ -4,8 +4,8 @@ Genetic algorithm is a optimization algorithm inspired by natural selection, the
 ## Installation
 clone this repository and execute the following commands:
    ##### to install requirements:
-          pip install -r requirements.txt 
-   ##### to try the codes:
+          pip install -r requirements.txt
+## Usage
    ######        1.sentence_generator
           python sentence_generator.py
    ######        2.TSP - travelling salesperson
